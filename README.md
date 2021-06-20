@@ -1,16 +1,22 @@
-# bandeira
+# BANDEIRA
 
-A new Flutter project.
+Projeto desenvolvido durante o curso de Flutter pela Raro Academy, com o objetivo de reproduzir uma bandeira utilizando os *widgets* básicos do Flutter.
 
-## Getting Started
+![bandeira](https://user-images.githubusercontent.com/19718447/122690015-27d2f580-d1fd-11eb-89e5-0042fa642533.png)
 
-This project is a starting point for a Flutter application.
+## Tecnologias Utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+* Flutter
+* Dart
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Conceitos Aplicados
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* StatelessWidget
+* MaterialApp
+* Container
+* Stack
+* Positioned
+
+## Referências
+
+[Documentação do Flutter](https://flutter.dev/docs)
